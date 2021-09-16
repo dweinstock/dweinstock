@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dweinstock
-Currently seeking to enter the analytics space.
-LinkedIn: www.linkedin.com/in/davidiweinstock/
+Hi, I’m @dweinstock<br/>
+Currently seeking to enter the analytics space.<br/>
+LinkedIn: www.linkedin.com/in/davidiweinstock/<br/>
 Tableau Public: public.tableau.com/app/profile/david.w3684
